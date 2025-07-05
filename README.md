@@ -1,0 +1,1 @@
+# whisper-finetune-arabic-diacritization
